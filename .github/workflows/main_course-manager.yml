@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'course-manager'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b0529a355cc947cdbd5725999c691386 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b186f2d8ffad409dbe3156f3ed23193e }}
         package: .
