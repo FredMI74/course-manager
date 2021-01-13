@@ -5,7 +5,6 @@ import { CourseInfoComponent } from './courses/course-info.component';
 import { FormsModule } from "@angular/forms";
 import { CommonModule } from "@angular/common";
 import { StarModule } from "./shared/component/start/star.module";
-import { ReplacePipe } from "./shared/pipe/replace.pipe";
 import { AppPipleModule } from "./shared/pipe/app-pipe.module";
 
 @NgModule({
